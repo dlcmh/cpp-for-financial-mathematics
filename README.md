@@ -1,0 +1,1 @@
+Based on [C++ for Financial Mathematics (Chapman and Hall/CRC Financial Mathematics Series) (9781498750059) by John Armstrong](https://www.amazon.com/Financial-Mathematics-Chapman-Hall-CRC/dp/1498750052%3FSubscriptionId%3D0K1019RWK8CNM7CNZV82%26tag%3D0a0-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1498750052).
