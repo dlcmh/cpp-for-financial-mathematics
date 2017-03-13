@@ -16,7 +16,8 @@ int main() {
   cin >> numberOfYears;
 
   double finalBalance =
-    pow(1.0 + interestRate * 0.01, numberOfYears) * principal;
+    pow(1.0 + interestRate * 0.01, numberOfYears)
+    * principal;
   double interest = finalBalance - principal;
 
   cout << "You will earn ";
